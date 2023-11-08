@@ -17,3 +17,9 @@ h3{
 ul{
     color: darkblue;
 }
+
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
