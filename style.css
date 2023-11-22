@@ -5,6 +5,10 @@ body{
     font-size: 125%;
 }
 
+p{
+    font-family: Gill Sans MT;
+}
+
 h1{
     text-align: center;
 }
