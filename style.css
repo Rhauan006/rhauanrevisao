@@ -1,27 +1,23 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-image:linear-gradient(white, black);
-    color: darkred;
+    color: darkblue;
     font-size: 125%;
 }
 
 h1{
-    color: darkred;
     text-align: center;
 }
 
 h2{
-    color: darkred;
     text-align: center;
 }
 
 h3{
-    color: darkred;
     text-align: center;
 }
 
 ul{
-    color: darkred;
     line-height: 1.5;
     font: size 16px;
 }
